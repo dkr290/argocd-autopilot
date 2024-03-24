@@ -1,0 +1,2 @@
+# argocd-autopilot
+autopilot-structure
